@@ -14,4 +14,3553 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libs\glew\include\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_features.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_fixes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_noise.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_swizzle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_swizzle_func.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\_vectorize.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_exponential.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_geometric.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_matrix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_packing.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_trigonometric.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\func_vector_relational.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\precision.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\setup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_float.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_gentype.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_half.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_int.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat2x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat2x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat2x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat3x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat3x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat3x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat4x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat4x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_mat4x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_vec.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_vec1.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_vec2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_vec3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\detail\type_vec4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\bitfield.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\color_space.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\constants.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\epsilon.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\functions.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\matrix_access.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\matrix_integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\matrix_inverse.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\matrix_transform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\noise.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\packing.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\quaternion.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\random.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\reciprocal.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\round.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\type_aligned.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\type_precision.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\type_ptr.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\ulp.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtc\vec1.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\associated_min_max.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\bit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\closest_point.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\color_space.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\color_space_YCoCg.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\compatibility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\component_wise.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\dual_quaternion.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\euler_angles.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\extend.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\extended_min_max.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\fast_exponential.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\fast_square_root.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\fast_trigonometry.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\gradient_paint.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\handed_coordinate_space.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\hash.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\intersect.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\io.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\log_base.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_cross_product.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_decompose.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_interpolation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_major_storage.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_operation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_query.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\matrix_transform_2d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\mixed_product.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\norm.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\normal.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\normalize_dot.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\number_precision.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\optimum_pow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\orthonormalize.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\perpendicular.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\polar_coordinates.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\projection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\quaternion.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\range.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\raw_data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\rotate_normalized_axis.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\rotate_vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\scalar_multiplication.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\scalar_relational.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\simd_mat4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\simd_quat.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\simd_vec4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\spline.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\std_based_type.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\string_cast.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\transform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\transform2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\type_aligned.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\type_trait.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\vector_angle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\vector_query.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\gtx\wrap.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\exponential.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\geometric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\packing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\trigonometric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\simd\vector_relational.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\common.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\exponential.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\ext.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\fwd.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\geometric.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\glm.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat2x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat2x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat2x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat3x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat3x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat3x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat4x2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat4x3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\mat4x4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\matrix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\packing.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\trigonometric.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\vec2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\vec3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\vec4.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\glm\vector_relational.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\generate_mipmaps.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\image2d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\operation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\operator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\shared_array.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\shared_ptr.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\size.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\texture_cube.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\texture_cube_array.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\texture2d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\core\texture2d_array.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\compression.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\fetch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\gl_texture2d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\gradient.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\loader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\loader_dds9.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\loader_dds10.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\loader_tga.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gtx\wavelet.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\glm\test\external\gli\gli.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\examples\shader\Effect.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\AlResource.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\Export.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\InputSoundFile.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\Listener.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\Music.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\OutputSoundFile.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\Sound.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundBufferRecorder.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundFileFactory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundFileReader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundFileWriter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundRecorder.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundSource.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio\SoundStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\BlendMode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\CircleShape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Color.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\ConvexShape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Drawable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Export.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Font.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Glsl.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Glyph.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Image.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\PrimitiveType.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Rect.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\RectangleShape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\RenderStates.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\RenderTarget.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\RenderTexture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\RenderWindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Shape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Sprite.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Text.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Transform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Transformable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\Vertex.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\VertexArray.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics\View.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\Export.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\Ftp.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\Http.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\IpAddress.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\Packet.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\Socket.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\SocketHandle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\SocketSelector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\TcpListener.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\TcpSocket.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network\UdpSocket.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Clock.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Err.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Export.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\FileInputStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\InputStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Lock.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\MemoryInputStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Mutex.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\NativeActivity.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\NonCopyable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Sleep.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\String.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Thread.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\ThreadLocal.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\ThreadLocalPtr.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Time.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Utf.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Vector2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System\Vector3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Context.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\ContextSettings.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Event.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Export.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\GlResource.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Joystick.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Keyboard.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Mouse.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Sensor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Touch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\VideoMode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\Window.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\WindowHandle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window\WindowStyle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Audio.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Config.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Graphics.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Main.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Network.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\OpenGL.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\System.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Libs\SFML\include\SFML\Window.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\File\Loadable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Dropdown.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\GUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Imaged_Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Panel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Text_Box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GUI\Toggle_Option_Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\HUD\Crosshair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\HUD\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\HUD\HUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\HUD\Vignette.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Input\Function_Toggle_Key.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Input\Key_Binds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Maths\Frustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Maths\General_Maths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Maths\Matrix_Maths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Maths\Plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Maths\Position_Conversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Physics\AABB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Physics\Ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Player\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RFlora.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RHit_Box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RLiquid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RMaster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RSFML.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RSimple.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RSolid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource_Managers\Resource_Holder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource_Managers\Resource_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Shaders\Chunk_Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Shaders\Shader_Loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Shaders\Shader_Program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Shaders\Simple_Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\Game_State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\SMain_Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\SPlaying.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\SSettings_Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Temp\Noise_Generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Temp\Quad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\Cube_Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture\Texture_Atlas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Array2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Array3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\ConfigParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\File_Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Hasher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\STD_Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Time_Check.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Types\BDefault.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Types\Block_Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Types\BPlant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Types\BWater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Database.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_ID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block\Block_Position.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\BoundsCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Full_Chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\IChunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Mesh_Builder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Nodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Position.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Chunk\Section.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Biome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Buildings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Generation_Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Structures_Builder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Terrain_Generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Generators\Trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\Block_Editor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\IBlock_Accessible.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\World_Constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\World_File.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\World\World_Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Body.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Glm_Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Model_Coords.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Music_Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\glm\detail\dummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\glm\detail\glm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\bug\bug_ms_vec_static.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_force_pure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_force_unrestricted_gentype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_exponential.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_geometric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_integer_bit_count.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_integer_find_lsb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_integer_find_msb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_noise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_packing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_swizzle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_trigonometric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_func_vector_relational.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_setup_force_cxx98.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_setup_message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_setup_precision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_aligned.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_cast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_ctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_float.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_int.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_length.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat2x2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat2x3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat2x4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat3x2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat3x3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat3x4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat4x2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat4x3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_mat4x4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_vec1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_vec2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_vec3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\core\core_type_vec4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\external\gli\core\dummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_bitfield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_color_space.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_constants.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_epsilon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_matrix_access.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_matrix_integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_matrix_inverse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_matrix_transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_noise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_packing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_reciprocal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_round.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_type_aligned.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_type_precision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_type_ptr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_ulp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_user_defined_types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtc\gtc_vec1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_associated_min_max.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_closest_point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_color_space.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_color_space_YCoCg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_compatibility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_component_wise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_dual_quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_euler_angle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_extend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_extended_min_max.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_extented_min_max.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_fast_exponential.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_fast_square_root.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_fast_trigonometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_gradient_paint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_handed_coordinate_space.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_int_10_10_10_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_intersect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_io.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_log_base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_cross_product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_decompose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_interpolation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_major_storage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_query.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_matrix_transform_2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_mixed_product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_norm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_normal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_normalize_dot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_number_precision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_optimum_pow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_orthonormalize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_perpendicular.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_polar_coordinates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_projection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_range.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_rotate_normalized_axis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_rotate_vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_scalar_multiplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_scalar_relational.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_simd_mat4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_simd_vec4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_spline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_string_cast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_type_aligned.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_type_trait.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_vector_angle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_vector_query.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\glm\test\gtx\gtx_wrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\ftp\Ftp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\opengl\OpenGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\pong\Pong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\shader\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\sockets\Sockets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\sockets\TCP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\sockets\UDP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\sound\Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\sound-capture\SoundCapture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\voip\Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\voip\Server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\voip\VoIP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\win32\Win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Libs\SFML\examples\window\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Dropdown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Imaged_Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GUI\Text_Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\HUD\Crosshair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\HUD\Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\HUD\Vignette.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Input\Function_Toggle_Key.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Input\Key_Binds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Maths\Frustum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Maths\General_Maths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Maths\Matrix_Maths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Maths\Position_Conversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Physics\AABB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Physics\Ray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Player\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Player\Player_Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RFlora.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RHit_Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RLiquid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RMaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RSFML.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RSimple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RSolid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Resource_Managers\Resource_Holder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Shaders\Chunk_Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Shaders\Shader_Loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Shaders\Shader_Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Shaders\Simple_Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\Game_State.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\SMain_Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\SPlaying.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\SSettings_Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Temp\Noise_Generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Temp\Quad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\Cube_Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture\Texture_Atlas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\ConfigParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\File_Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\Loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\STD_Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\Time_Check.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Types\BDefault.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Types\Block_Type.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Types\BPlant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Types\BWater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block\Block_Database.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\BoundsCheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Full_Chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Mesh_Builder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Nodes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Section.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Chunk\Section_GaS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Biome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Buildings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Generation_Type.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Structures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Structures_Builder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Terrain_Generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Generators\Trees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\Block_Editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\World\World_File.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Body.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Model_Coords.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Music_Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include=".gitattributes" />
+    <None Include="Data\Blocks\_Example.block" />
+    <None Include="Data\Blocks\Air.block" />
+    <None Include="Data\Blocks\Dirt.block" />
+    <None Include="Data\Blocks\Grass.block" />
+    <None Include="Data\Blocks\Oak_Leaf.block" />
+    <None Include="Data\Blocks\Oak_Wood.block" />
+    <None Include="Data\Blocks\Rose.block" />
+    <None Include="Data\Blocks\Sand.block" />
+    <None Include="Data\Blocks\Stone.block" />
+    <None Include="Data\Blocks\Tall_Grass.block" />
+    <None Include="Data\Blocks\Water.block" />
+    <None Include="Data\Music\Rue%27s Whistle.ogg" />
+    <None Include="Data\Music\Undertale - Once Upon A Time.ogg" />
+    <None Include="Data\Shaders\Block_Fragment.glsl" />
+    <None Include="Data\Shaders\Flora_Vertex.glsl" />
+    <None Include="Data\Shaders\Liquid_Vertex.glsl" />
+    <None Include="Data\Shaders\Simple_Fragment.glsl" />
+    <None Include="Data\Shaders\Simple_Vertex.glsl" />
+    <None Include="Data\Shaders\Solid_Vertex.glsl" />
+    <None Include="Data\WorldGen\Classic\Info.biome" />
+    <None Include="Data\WorldGen\Classic\Dense Forest.biome" />
+    <None Include="Data\WorldGen\Classic\Forest.biome" />
+    <None Include="Data\WorldGen\Classic\Grassland.biome" />
+    <None Include="Data\WorldGen\Classic\Mountains.biome" />
+    <None Include="Data\WorldGen\Classic\Ocean.biome" />
+    <None Include="Data\WorldGen\Islands\Deep Trench.biome" />
+    <None Include="Data\WorldGen\Islands\Highland.biome" />
+    <None Include="Data\WorldGen\Islands\Info.biome" />
+    <None Include="Data\WorldGen\Islands\Land.biome" />
+    <None Include="Data\WorldGen\Islands\Land2.biome" />
+    <None Include="Data\WorldGen\Islands\Ocean.biome" />
+    <None Include="Data\WorldGen\Islands\Trench.biome" />
+    <None Include="Debug\Data\Blocks\_Example.block" />
+    <None Include="Debug\Data\Blocks\Air.block" />
+    <None Include="Debug\Data\Blocks\Dirt.block" />
+    <None Include="Debug\Data\Blocks\Grass.block" />
+    <None Include="Debug\Data\Blocks\Oak_Leaf.block" />
+    <None Include="Debug\Data\Blocks\Oak_Wood.block" />
+    <None Include="Debug\Data\Blocks\Rose.block" />
+    <None Include="Debug\Data\Blocks\Sand.block" />
+    <None Include="Debug\Data\Blocks\Snow.block" />
+    <None Include="Debug\Data\Blocks\Stone.block" />
+    <None Include="Debug\Data\Blocks\Tall_Grass.block" />
+    <None Include="Debug\Data\Blocks\Water.block" />
+    <None Include="Debug\Data\Music\Rue%27s Whistle.ogg" />
+    <None Include="Debug\Data\Music\Undertale - Once Upon A Time.ogg" />
+    <None Include="Debug\Data\Shaders\Block_Fragment.glsl" />
+    <None Include="Debug\Data\Shaders\Flora_Vertex.glsl" />
+    <None Include="Debug\Data\Shaders\Liquid_Vertex.glsl" />
+    <None Include="Debug\Data\Shaders\Simple_Fragment.glsl" />
+    <None Include="Debug\Data\Shaders\Simple_Vertex.glsl" />
+    <None Include="Debug\Data\Shaders\Solid_Vertex.glsl" />
+    <None Include="Debug\Data\WorldGen\Classic\Dense Forest.biome" />
+    <None Include="Debug\Data\WorldGen\Classic\Forest.biome" />
+    <None Include="Debug\Data\WorldGen\Classic\Grassland.biome" />
+    <None Include="Debug\Data\WorldGen\Classic\Info.biome" />
+    <None Include="Debug\Data\WorldGen\Classic\Mountains.biome" />
+    <None Include="Debug\Data\WorldGen\Classic\Ocean.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Deep Trench.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Highland.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Info.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Land.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Ocean.biome" />
+    <None Include="Debug\Data\WorldGen\Islands\Trench.biome" />
+    <None Include="Debug\OpenGLProject2.tlog\CL.command.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\CL.read.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\CL.write.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link.command.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link.read.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link.write.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link-cvtres.read.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link-cvtres.write.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link-rc.read.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\link-rc.write.1.tlog" />
+    <None Include="Debug\OpenGLProject2.tlog\OpenGLProject2.lastbuildstate" />
+    <None Include="Debug\OpenGLProject2.tlog\unsuccessfulbuild" />
+    <None Include="Debug\libgcc_s_sjlj-1.dll" />
+    <None Include="Debug\libstdc++-6.dll" />
+    <None Include="Debug\openal32.dll" />
+    <None Include="Debug\OpenGLProject2.pdb" />
+    <None Include="Debug\sfml-audio-2.dll" />
+    <None Include="Debug\sfml-graphics-2.dll" />
+    <None Include="Debug\sfml-network-2.dll" />
+    <None Include="Debug\sfml-system-2.dll" />
+    <None Include="Debug\sfml-window-2.dll" />
+    <None Include="Debug\vc140.idb" />
+    <None Include="Debug\vc140.pdb" />
+    <None Include="Libs\glew\bin\Release\Win32\glew32.dll" />
+    <None Include="Libs\glew\bin\Release\Win32\glewinfo.exe" />
+    <None Include="Libs\glew\bin\Release\Win32\visualinfo.exe" />
+    <None Include="Libs\glew\bin\Release\x64\glew32.dll" />
+    <None Include="Libs\glew\bin\Release\x64\glewinfo.exe" />
+    <None Include="Libs\glew\bin\Release\x64\visualinfo.exe" />
+    <None Include="Libs\glew\doc\advanced.html" />
+    <None Include="Libs\glew\doc\basic.html" />
+    <None Include="Libs\glew\doc\build.html" />
+    <None Include="Libs\glew\doc\credits.html" />
+    <None Include="Libs\glew\doc\glew.css" />
+    <None Include="Libs\glew\doc\glew.html" />
+    <None Include="Libs\glew\doc\glxew.html" />
+    <None Include="Libs\glew\doc\index.html" />
+    <None Include="Libs\glew\doc\install.html" />
+    <None Include="Libs\glew\doc\log.html" />
+    <None Include="Libs\glew\doc\wglew.html" />
+    <None Include="Libs\glm\cmake\CMakePackageConfigHelpers.cmake" />
+    <None Include="Libs\glm\cmake\glm.pc.in" />
+    <None Include="Libs\glm\cmake\glmBuildConfig.cmake.in" />
+    <None Include="Libs\glm\cmake\glmConfig.cmake.in" />
+    <None Include="Libs\glm\cmake\GNUInstallDirs.cmake" />
+    <None Include="Libs\glm\doc\api\a00001.html" />
+    <None Include="Libs\glm\doc\api\a00001_source.html" />
+    <None Include="Libs\glm\doc\api\a00002.html" />
+    <None Include="Libs\glm\doc\api\a00002_source.html" />
+    <None Include="Libs\glm\doc\api\a00003.html" />
+    <None Include="Libs\glm\doc\api\a00003_source.html" />
+    <None Include="Libs\glm\doc\api\a00004.html" />
+    <None Include="Libs\glm\doc\api\a00004_source.html" />
+    <None Include="Libs\glm\doc\api\a00005.html" />
+    <None Include="Libs\glm\doc\api\a00005_source.html" />
+    <None Include="Libs\glm\doc\api\a00006.html" />
+    <None Include="Libs\glm\doc\api\a00006_source.html" />
+    <None Include="Libs\glm\doc\api\a00007.html" />
+    <None Include="Libs\glm\doc\api\a00007_source.html" />
+    <None Include="Libs\glm\doc\api\a00008.html" />
+    <None Include="Libs\glm\doc\api\a00008_source.html" />
+    <None Include="Libs\glm\doc\api\a00009.html" />
+    <None Include="Libs\glm\doc\api\a00009_source.html" />
+    <None Include="Libs\glm\doc\api\a00010.html" />
+    <None Include="Libs\glm\doc\api\a00010_source.html" />
+    <None Include="Libs\glm\doc\api\a00011.html" />
+    <None Include="Libs\glm\doc\api\a00011_source.html" />
+    <None Include="Libs\glm\doc\api\a00012.html" />
+    <None Include="Libs\glm\doc\api\a00012_source.html" />
+    <None Include="Libs\glm\doc\api\a00013.html" />
+    <None Include="Libs\glm\doc\api\a00013_source.html" />
+    <None Include="Libs\glm\doc\api\a00014.html" />
+    <None Include="Libs\glm\doc\api\a00014_source.html" />
+    <None Include="Libs\glm\doc\api\a00015.html" />
+    <None Include="Libs\glm\doc\api\a00015_source.html" />
+    <None Include="Libs\glm\doc\api\a00016.html" />
+    <None Include="Libs\glm\doc\api\a00016_source.html" />
+    <None Include="Libs\glm\doc\api\a00017.html" />
+    <None Include="Libs\glm\doc\api\a00017_source.html" />
+    <None Include="Libs\glm\doc\api\a00018.html" />
+    <None Include="Libs\glm\doc\api\a00018_source.html" />
+    <None Include="Libs\glm\doc\api\a00019.html" />
+    <None Include="Libs\glm\doc\api\a00019_source.html" />
+    <None Include="Libs\glm\doc\api\a00020.html" />
+    <None Include="Libs\glm\doc\api\a00020_source.html" />
+    <None Include="Libs\glm\doc\api\a00021.html" />
+    <None Include="Libs\glm\doc\api\a00021_source.html" />
+    <None Include="Libs\glm\doc\api\a00022.html" />
+    <None Include="Libs\glm\doc\api\a00022_source.html" />
+    <None Include="Libs\glm\doc\api\a00023.html" />
+    <None Include="Libs\glm\doc\api\a00023_source.html" />
+    <None Include="Libs\glm\doc\api\a00024.html" />
+    <None Include="Libs\glm\doc\api\a00024_source.html" />
+    <None Include="Libs\glm\doc\api\a00025.html" />
+    <None Include="Libs\glm\doc\api\a00025_source.html" />
+    <None Include="Libs\glm\doc\api\a00026.html" />
+    <None Include="Libs\glm\doc\api\a00026_source.html" />
+    <None Include="Libs\glm\doc\api\a00027.html" />
+    <None Include="Libs\glm\doc\api\a00027_source.html" />
+    <None Include="Libs\glm\doc\api\a00028.html" />
+    <None Include="Libs\glm\doc\api\a00028_source.html" />
+    <None Include="Libs\glm\doc\api\a00029.html" />
+    <None Include="Libs\glm\doc\api\a00029_source.html" />
+    <None Include="Libs\glm\doc\api\a00030.html" />
+    <None Include="Libs\glm\doc\api\a00030_source.html" />
+    <None Include="Libs\glm\doc\api\a00031.html" />
+    <None Include="Libs\glm\doc\api\a00031_source.html" />
+    <None Include="Libs\glm\doc\api\a00032.html" />
+    <None Include="Libs\glm\doc\api\a00032_source.html" />
+    <None Include="Libs\glm\doc\api\a00033.html" />
+    <None Include="Libs\glm\doc\api\a00033_source.html" />
+    <None Include="Libs\glm\doc\api\a00034.html" />
+    <None Include="Libs\glm\doc\api\a00034_source.html" />
+    <None Include="Libs\glm\doc\api\a00035.html" />
+    <None Include="Libs\glm\doc\api\a00035_source.html" />
+    <None Include="Libs\glm\doc\api\a00036.html" />
+    <None Include="Libs\glm\doc\api\a00036_source.html" />
+    <None Include="Libs\glm\doc\api\a00037.html" />
+    <None Include="Libs\glm\doc\api\a00037_source.html" />
+    <None Include="Libs\glm\doc\api\a00038.html" />
+    <None Include="Libs\glm\doc\api\a00038_source.html" />
+    <None Include="Libs\glm\doc\api\a00039.html" />
+    <None Include="Libs\glm\doc\api\a00039_source.html" />
+    <None Include="Libs\glm\doc\api\a00040.html" />
+    <None Include="Libs\glm\doc\api\a00040_source.html" />
+    <None Include="Libs\glm\doc\api\a00041.html" />
+    <None Include="Libs\glm\doc\api\a00041_source.html" />
+    <None Include="Libs\glm\doc\api\a00042.html" />
+    <None Include="Libs\glm\doc\api\a00042_source.html" />
+    <None Include="Libs\glm\doc\api\a00043.html" />
+    <None Include="Libs\glm\doc\api\a00043_source.html" />
+    <None Include="Libs\glm\doc\api\a00044.html" />
+    <None Include="Libs\glm\doc\api\a00044_source.html" />
+    <None Include="Libs\glm\doc\api\a00045.html" />
+    <None Include="Libs\glm\doc\api\a00045_source.html" />
+    <None Include="Libs\glm\doc\api\a00046.html" />
+    <None Include="Libs\glm\doc\api\a00046_source.html" />
+    <None Include="Libs\glm\doc\api\a00047.html" />
+    <None Include="Libs\glm\doc\api\a00047_source.html" />
+    <None Include="Libs\glm\doc\api\a00048.html" />
+    <None Include="Libs\glm\doc\api\a00048_source.html" />
+    <None Include="Libs\glm\doc\api\a00049.html" />
+    <None Include="Libs\glm\doc\api\a00049_source.html" />
+    <None Include="Libs\glm\doc\api\a00050_source.html" />
+    <None Include="Libs\glm\doc\api\a00051.html" />
+    <None Include="Libs\glm\doc\api\a00051_source.html" />
+    <None Include="Libs\glm\doc\api\a00052.html" />
+    <None Include="Libs\glm\doc\api\a00052_source.html" />
+    <None Include="Libs\glm\doc\api\a00053.html" />
+    <None Include="Libs\glm\doc\api\a00053_source.html" />
+    <None Include="Libs\glm\doc\api\a00054.html" />
+    <None Include="Libs\glm\doc\api\a00054_source.html" />
+    <None Include="Libs\glm\doc\api\a00055.html" />
+    <None Include="Libs\glm\doc\api\a00055_source.html" />
+    <None Include="Libs\glm\doc\api\a00056.html" />
+    <None Include="Libs\glm\doc\api\a00056_source.html" />
+    <None Include="Libs\glm\doc\api\a00057.html" />
+    <None Include="Libs\glm\doc\api\a00057_source.html" />
+    <None Include="Libs\glm\doc\api\a00058_source.html" />
+    <None Include="Libs\glm\doc\api\a00059.html" />
+    <None Include="Libs\glm\doc\api\a00059_source.html" />
+    <None Include="Libs\glm\doc\api\a00060.html" />
+    <None Include="Libs\glm\doc\api\a00060_source.html" />
+    <None Include="Libs\glm\doc\api\a00061.html" />
+    <None Include="Libs\glm\doc\api\a00061_source.html" />
+    <None Include="Libs\glm\doc\api\a00062.html" />
+    <None Include="Libs\glm\doc\api\a00062_source.html" />
+    <None Include="Libs\glm\doc\api\a00063.html" />
+    <None Include="Libs\glm\doc\api\a00063_source.html" />
+    <None Include="Libs\glm\doc\api\a00064.html" />
+    <None Include="Libs\glm\doc\api\a00064_source.html" />
+    <None Include="Libs\glm\doc\api\a00065.html" />
+    <None Include="Libs\glm\doc\api\a00065_source.html" />
+    <None Include="Libs\glm\doc\api\a00066.html" />
+    <None Include="Libs\glm\doc\api\a00066_source.html" />
+    <None Include="Libs\glm\doc\api\a00067.html" />
+    <None Include="Libs\glm\doc\api\a00067_source.html" />
+    <None Include="Libs\glm\doc\api\a00068.html" />
+    <None Include="Libs\glm\doc\api\a00068_source.html" />
+    <None Include="Libs\glm\doc\api\a00069.html" />
+    <None Include="Libs\glm\doc\api\a00069_source.html" />
+    <None Include="Libs\glm\doc\api\a00070.html" />
+    <None Include="Libs\glm\doc\api\a00070_source.html" />
+    <None Include="Libs\glm\doc\api\a00071.html" />
+    <None Include="Libs\glm\doc\api\a00071_source.html" />
+    <None Include="Libs\glm\doc\api\a00072.html" />
+    <None Include="Libs\glm\doc\api\a00072_source.html" />
+    <None Include="Libs\glm\doc\api\a00073.html" />
+    <None Include="Libs\glm\doc\api\a00073_source.html" />
+    <None Include="Libs\glm\doc\api\a00074.html" />
+    <None Include="Libs\glm\doc\api\a00074_source.html" />
+    <None Include="Libs\glm\doc\api\a00075.html" />
+    <None Include="Libs\glm\doc\api\a00075_source.html" />
+    <None Include="Libs\glm\doc\api\a00076.html" />
+    <None Include="Libs\glm\doc\api\a00076_source.html" />
+    <None Include="Libs\glm\doc\api\a00077.html" />
+    <None Include="Libs\glm\doc\api\a00077_source.html" />
+    <None Include="Libs\glm\doc\api\a00078.html" />
+    <None Include="Libs\glm\doc\api\a00078_source.html" />
+    <None Include="Libs\glm\doc\api\a00079.html" />
+    <None Include="Libs\glm\doc\api\a00079_source.html" />
+    <None Include="Libs\glm\doc\api\a00080.html" />
+    <None Include="Libs\glm\doc\api\a00080_source.html" />
+    <None Include="Libs\glm\doc\api\a00081.html" />
+    <None Include="Libs\glm\doc\api\a00081_source.html" />
+    <None Include="Libs\glm\doc\api\a00082_source.html" />
+    <None Include="Libs\glm\doc\api\a00083.html" />
+    <None Include="Libs\glm\doc\api\a00083_source.html" />
+    <None Include="Libs\glm\doc\api\a00084.html" />
+    <None Include="Libs\glm\doc\api\a00084_source.html" />
+    <None Include="Libs\glm\doc\api\a00085.html" />
+    <None Include="Libs\glm\doc\api\a00085_source.html" />
+    <None Include="Libs\glm\doc\api\a00086.html" />
+    <None Include="Libs\glm\doc\api\a00086_source.html" />
+    <None Include="Libs\glm\doc\api\a00087.html" />
+    <None Include="Libs\glm\doc\api\a00087_source.html" />
+    <None Include="Libs\glm\doc\api\a00088.html" />
+    <None Include="Libs\glm\doc\api\a00088_source.html" />
+    <None Include="Libs\glm\doc\api\a00089.html" />
+    <None Include="Libs\glm\doc\api\a00089_source.html" />
+    <None Include="Libs\glm\doc\api\a00090.html" />
+    <None Include="Libs\glm\doc\api\a00090_source.html" />
+    <None Include="Libs\glm\doc\api\a00091.html" />
+    <None Include="Libs\glm\doc\api\a00091_source.html" />
+    <None Include="Libs\glm\doc\api\a00092.html" />
+    <None Include="Libs\glm\doc\api\a00092_source.html" />
+    <None Include="Libs\glm\doc\api\a00093.html" />
+    <None Include="Libs\glm\doc\api\a00093_source.html" />
+    <None Include="Libs\glm\doc\api\a00094.html" />
+    <None Include="Libs\glm\doc\api\a00094_source.html" />
+    <None Include="Libs\glm\doc\api\a00095.html" />
+    <None Include="Libs\glm\doc\api\a00095_source.html" />
+    <None Include="Libs\glm\doc\api\a00096.html" />
+    <None Include="Libs\glm\doc\api\a00096_source.html" />
+    <None Include="Libs\glm\doc\api\a00097.html" />
+    <None Include="Libs\glm\doc\api\a00097_source.html" />
+    <None Include="Libs\glm\doc\api\a00098.html" />
+    <None Include="Libs\glm\doc\api\a00098_source.html" />
+    <None Include="Libs\glm\doc\api\a00099.html" />
+    <None Include="Libs\glm\doc\api\a00099_source.html" />
+    <None Include="Libs\glm\doc\api\a00100.html" />
+    <None Include="Libs\glm\doc\api\a00100_source.html" />
+    <None Include="Libs\glm\doc\api\a00101.html" />
+    <None Include="Libs\glm\doc\api\a00101_source.html" />
+    <None Include="Libs\glm\doc\api\a00102.html" />
+    <None Include="Libs\glm\doc\api\a00102_source.html" />
+    <None Include="Libs\glm\doc\api\a00103.html" />
+    <None Include="Libs\glm\doc\api\a00103_source.html" />
+    <None Include="Libs\glm\doc\api\a00104.html" />
+    <None Include="Libs\glm\doc\api\a00104_source.html" />
+    <None Include="Libs\glm\doc\api\a00105.html" />
+    <None Include="Libs\glm\doc\api\a00105_source.html" />
+    <None Include="Libs\glm\doc\api\a00106.html" />
+    <None Include="Libs\glm\doc\api\a00106_source.html" />
+    <None Include="Libs\glm\doc\api\a00107.html" />
+    <None Include="Libs\glm\doc\api\a00107_source.html" />
+    <None Include="Libs\glm\doc\api\a00108.html" />
+    <None Include="Libs\glm\doc\api\a00108_source.html" />
+    <None Include="Libs\glm\doc\api\a00109.html" />
+    <None Include="Libs\glm\doc\api\a00109_source.html" />
+    <None Include="Libs\glm\doc\api\a00110.html" />
+    <None Include="Libs\glm\doc\api\a00110_source.html" />
+    <None Include="Libs\glm\doc\api\a00111.html" />
+    <None Include="Libs\glm\doc\api\a00111_source.html" />
+    <None Include="Libs\glm\doc\api\a00112.html" />
+    <None Include="Libs\glm\doc\api\a00112_source.html" />
+    <None Include="Libs\glm\doc\api\a00113.html" />
+    <None Include="Libs\glm\doc\api\a00113_source.html" />
+    <None Include="Libs\glm\doc\api\a00114.html" />
+    <None Include="Libs\glm\doc\api\a00114_source.html" />
+    <None Include="Libs\glm\doc\api\a00115.html" />
+    <None Include="Libs\glm\doc\api\a00115_source.html" />
+    <None Include="Libs\glm\doc\api\a00116.html" />
+    <None Include="Libs\glm\doc\api\a00116_source.html" />
+    <None Include="Libs\glm\doc\api\a00117.html" />
+    <None Include="Libs\glm\doc\api\a00117_source.html" />
+    <None Include="Libs\glm\doc\api\a00118.html" />
+    <None Include="Libs\glm\doc\api\a00118_source.html" />
+    <None Include="Libs\glm\doc\api\a00119.html" />
+    <None Include="Libs\glm\doc\api\a00119_source.html" />
+    <None Include="Libs\glm\doc\api\a00120.html" />
+    <None Include="Libs\glm\doc\api\a00120_source.html" />
+    <None Include="Libs\glm\doc\api\a00121.html" />
+    <None Include="Libs\glm\doc\api\a00121_source.html" />
+    <None Include="Libs\glm\doc\api\a00122.html" />
+    <None Include="Libs\glm\doc\api\a00122_source.html" />
+    <None Include="Libs\glm\doc\api\a00123.html" />
+    <None Include="Libs\glm\doc\api\a00123_source.html" />
+    <None Include="Libs\glm\doc\api\a00124.html" />
+    <None Include="Libs\glm\doc\api\a00124_source.html" />
+    <None Include="Libs\glm\doc\api\a00125.html" />
+    <None Include="Libs\glm\doc\api\a00125_source.html" />
+    <None Include="Libs\glm\doc\api\a00126.html" />
+    <None Include="Libs\glm\doc\api\a00126_source.html" />
+    <None Include="Libs\glm\doc\api\a00127.html" />
+    <None Include="Libs\glm\doc\api\a00127_source.html" />
+    <None Include="Libs\glm\doc\api\a00128.html" />
+    <None Include="Libs\glm\doc\api\a00128_source.html" />
+    <None Include="Libs\glm\doc\api\a00129.html" />
+    <None Include="Libs\glm\doc\api\a00129_source.html" />
+    <None Include="Libs\glm\doc\api\a00130.html" />
+    <None Include="Libs\glm\doc\api\a00130_source.html" />
+    <None Include="Libs\glm\doc\api\a00131.html" />
+    <None Include="Libs\glm\doc\api\a00131_source.html" />
+    <None Include="Libs\glm\doc\api\a00132.html" />
+    <None Include="Libs\glm\doc\api\a00132_source.html" />
+    <None Include="Libs\glm\doc\api\a00133.html" />
+    <None Include="Libs\glm\doc\api\a00133_source.html" />
+    <None Include="Libs\glm\doc\api\a00134.html" />
+    <None Include="Libs\glm\doc\api\a00134_source.html" />
+    <None Include="Libs\glm\doc\api\a00135.html" />
+    <None Include="Libs\glm\doc\api\a00135_source.html" />
+    <None Include="Libs\glm\doc\api\a00136.html" />
+    <None Include="Libs\glm\doc\api\a00136_source.html" />
+    <None Include="Libs\glm\doc\api\a00137.html" />
+    <None Include="Libs\glm\doc\api\a00137_source.html" />
+    <None Include="Libs\glm\doc\api\a00138.html" />
+    <None Include="Libs\glm\doc\api\a00138_source.html" />
+    <None Include="Libs\glm\doc\api\a00139.html" />
+    <None Include="Libs\glm\doc\api\a00139_source.html" />
+    <None Include="Libs\glm\doc\api\a00140.html" />
+    <None Include="Libs\glm\doc\api\a00140_source.html" />
+    <None Include="Libs\glm\doc\api\a00146.html" />
+    <None Include="Libs\glm\doc\api\a00147.html" />
+    <None Include="Libs\glm\doc\api\a00148.html" />
+    <None Include="Libs\glm\doc\api\a00149.html" />
+    <None Include="Libs\glm\doc\api\a00150.html" />
+    <None Include="Libs\glm\doc\api\a00151.html" />
+    <None Include="Libs\glm\doc\api\a00152.html" />
+    <None Include="Libs\glm\doc\api\a00153.html" />
+    <None Include="Libs\glm\doc\api\a00154.html" />
+    <None Include="Libs\glm\doc\api\a00155.html" />
+    <None Include="Libs\glm\doc\api\a00156.html" />
+    <None Include="Libs\glm\doc\api\a00157.html" />
+    <None Include="Libs\glm\doc\api\a00158.html" />
+    <None Include="Libs\glm\doc\api\a00159.html" />
+    <None Include="Libs\glm\doc\api\a00160.html" />
+    <None Include="Libs\glm\doc\api\a00161.html" />
+    <None Include="Libs\glm\doc\api\a00162.html" />
+    <None Include="Libs\glm\doc\api\a00163.html" />
+    <None Include="Libs\glm\doc\api\a00164.html" />
+    <None Include="Libs\glm\doc\api\a00165.html" />
+    <None Include="Libs\glm\doc\api\a00166.html" />
+    <None Include="Libs\glm\doc\api\a00167.html" />
+    <None Include="Libs\glm\doc\api\a00168.html" />
+    <None Include="Libs\glm\doc\api\a00169.html" />
+    <None Include="Libs\glm\doc\api\a00170.html" />
+    <None Include="Libs\glm\doc\api\a00171.html" />
+    <None Include="Libs\glm\doc\api\a00172.html" />
+    <None Include="Libs\glm\doc\api\a00173.html" />
+    <None Include="Libs\glm\doc\api\a00174.html" />
+    <None Include="Libs\glm\doc\api\a00175.html" />
+    <None Include="Libs\glm\doc\api\a00176.html" />
+    <None Include="Libs\glm\doc\api\a00177.html" />
+    <None Include="Libs\glm\doc\api\a00178.html" />
+    <None Include="Libs\glm\doc\api\a00179.html" />
+    <None Include="Libs\glm\doc\api\a00180.html" />
+    <None Include="Libs\glm\doc\api\a00181.html" />
+    <None Include="Libs\glm\doc\api\a00182.html" />
+    <None Include="Libs\glm\doc\api\a00183.html" />
+    <None Include="Libs\glm\doc\api\a00184.html" />
+    <None Include="Libs\glm\doc\api\a00185.html" />
+    <None Include="Libs\glm\doc\api\a00186.html" />
+    <None Include="Libs\glm\doc\api\a00187.html" />
+    <None Include="Libs\glm\doc\api\a00188.html" />
+    <None Include="Libs\glm\doc\api\a00189.html" />
+    <None Include="Libs\glm\doc\api\a00190.html" />
+    <None Include="Libs\glm\doc\api\a00191.html" />
+    <None Include="Libs\glm\doc\api\a00192.html" />
+    <None Include="Libs\glm\doc\api\a00193.html" />
+    <None Include="Libs\glm\doc\api\a00194.html" />
+    <None Include="Libs\glm\doc\api\a00195.html" />
+    <None Include="Libs\glm\doc\api\a00196.html" />
+    <None Include="Libs\glm\doc\api\a00197.html" />
+    <None Include="Libs\glm\doc\api\a00198.html" />
+    <None Include="Libs\glm\doc\api\a00199.html" />
+    <None Include="Libs\glm\doc\api\a00200.html" />
+    <None Include="Libs\glm\doc\api\a00201.html" />
+    <None Include="Libs\glm\doc\api\a00202.html" />
+    <None Include="Libs\glm\doc\api\a00203.html" />
+    <None Include="Libs\glm\doc\api\a00204.html" />
+    <None Include="Libs\glm\doc\api\a00205.html" />
+    <None Include="Libs\glm\doc\api\a00206.html" />
+    <None Include="Libs\glm\doc\api\a00207.html" />
+    <None Include="Libs\glm\doc\api\a00208.html" />
+    <None Include="Libs\glm\doc\api\a00209.html" />
+    <None Include="Libs\glm\doc\api\a00210.html" />
+    <None Include="Libs\glm\doc\api\a00211.html" />
+    <None Include="Libs\glm\doc\api\a00212.html" />
+    <None Include="Libs\glm\doc\api\a00213.html" />
+    <None Include="Libs\glm\doc\api\a00214.html" />
+    <None Include="Libs\glm\doc\api\a00215.html" />
+    <None Include="Libs\glm\doc\api\a00216.html" />
+    <None Include="Libs\glm\doc\api\a00217.html" />
+    <None Include="Libs\glm\doc\api\a00218.html" />
+    <None Include="Libs\glm\doc\api\a00219.html" />
+    <None Include="Libs\glm\doc\api\a00220.html" />
+    <None Include="Libs\glm\doc\api\a00221.html" />
+    <None Include="Libs\glm\doc\api\a00222.html" />
+    <None Include="Libs\glm\doc\api\a00223.html" />
+    <None Include="Libs\glm\doc\api\a00224.html" />
+    <None Include="Libs\glm\doc\api\a00225.html" />
+    <None Include="Libs\glm\doc\api\a00226.html" />
+    <None Include="Libs\glm\doc\api\a00227.html" />
+    <None Include="Libs\glm\doc\api\a00228.html" />
+    <None Include="Libs\glm\doc\api\a00229.html" />
+    <None Include="Libs\glm\doc\api\a00230.html" />
+    <None Include="Libs\glm\doc\api\a00231.html" />
+    <None Include="Libs\glm\doc\api\a00232.html" />
+    <None Include="Libs\glm\doc\api\a00233.html" />
+    <None Include="Libs\glm\doc\api\a00234.html" />
+    <None Include="Libs\glm\doc\api\a00235.html" />
+    <None Include="Libs\glm\doc\api\a00236.html" />
+    <None Include="Libs\glm\doc\api\a00237.html" />
+    <None Include="Libs\glm\doc\api\a00238.html" />
+    <None Include="Libs\glm\doc\api\dir_1f76e953200861345293ade84ac7fb6c.html" />
+    <None Include="Libs\glm\doc\api\dir_5ce58d942b2d0776e17a9a58abc01e04.html" />
+    <None Include="Libs\glm\doc\api\dir_7b98f88bffbed4b390b5f8f520d9c08e.html" />
+    <None Include="Libs\glm\doc\api\dir_8d176b5b7dd0ae42ea6876078f2bde49.html" />
+    <None Include="Libs\glm\doc\api\dir_577c788b67d63fb3b3b5752bd495d0f2.html" />
+    <None Include="Libs\glm\doc\api\dir_9440d7c11b99dcd7e5d369c7cf9802fe.html" />
+    <None Include="Libs\glm\doc\api\dir_275089585c7fc1b5fd5d7d42c69cb1da.html" />
+    <None Include="Libs\glm\doc\api\dir_e29b03b892e0e25920d021a614d4db9b.html" />
+    <None Include="Libs\glm\doc\api\dir_e529a619cfdec1fa4c331fb042fd332f.html" />
+    <None Include="Libs\glm\doc\api\doxygen.css" />
+    <None Include="Libs\glm\doc\api\dynsections.js" />
+    <None Include="Libs\glm\doc\api\files.html" />
+    <None Include="Libs\glm\doc\api\index.html" />
+    <None Include="Libs\glm\doc\api\jquery.js" />
+    <None Include="Libs\glm\doc\api\modules.html" />
+    <None Include="Libs\glm\doc\api\tabs.css" />
+    <None Include="Libs\glm\doc\theme\doxygen.css" />
+    <None Include="Libs\glm\doc\theme\tabs.css" />
+    <None Include="Libs\glm\doc\glm.docx" />
+    <None Include="Libs\glm\doc\glm.pdf" />
+    <None Include="Libs\glm\doc\man.doxy" />
+    <None Include="Libs\glm\doc\pages.doxy" />
+    <None Include="Libs\glm\glm\detail\func_common.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_common_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_exponential.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_exponential_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_geometric.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_geometric_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_integer.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_integer_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_matrix.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_matrix_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_packing.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_packing_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_trigonometric.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_trigonometric_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_vector_relational.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\func_vector_relational_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_gentype.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_half.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat2x2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat2x3.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat2x4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat3x2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat3x3.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat3x4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat4x2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat4x3.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat4x4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_mat4x4_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec1.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec3.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\detail\type_vec4_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\bitfield.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\color_encoding.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\color_space.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\constants.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\epsilon.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\functions.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\integer.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\matrix_access.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\matrix_inverse.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\matrix_transform.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\noise.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\packing.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\quaternion_simd.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\random.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\reciprocal.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\round.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\type_precision.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\type_ptr.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\ulp.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtc\vec1.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\associated_min_max.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\bit.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\closest_point.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\color_space.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\color_space_YCoCg.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\common.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\compatibility.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\component_wise.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\dual_quaternion.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\euler_angles.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\extend.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\extended_min_max.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\fast_exponential.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\fast_square_root.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\fast_trigonometry.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\float_notmalize.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\gradient_paint.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\handed_coordinate_space.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\hash.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\integer.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\intersect.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\io.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\log_base.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_cross_product.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_decompose.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_interpolation.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_major_storage.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_operation.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_query.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\matrix_transform_2d.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\mixed_product.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\norm.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\normal.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\normalize_dot.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\number_precision.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\optimum_pow.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\orthonormalize.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\perpendicular.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\polar_coordinates.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\projection.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\raw_data.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\rotate_normalized_axis.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\rotate_vector.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\scalar_relational.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\simd_mat4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\simd_quat.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\simd_vec4.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\spline.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\std_based_type.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\string_cast.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\transform.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\transform2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\type_aligned.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\type_trait.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\vector_angle.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\vector_query.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\glm\gtx\wrap.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\generate_mipmaps.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\image2d.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\operation.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\operator.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\shared_array.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\shared_ptr.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\size.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\texture_cube.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\texture_cube_array.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\texture2d.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\core\texture2d_array.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\compression.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\fetch.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\gl_texture2d.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\gradient.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\loader.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\loader_dds9.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\loader_dds10.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\loader_tga.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\test\external\gli\gtx\wavelet.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\glm\.appveyor.yml" />
+    <None Include="Libs\glm\.gitignore" />
+    <None Include="Libs\glm\.travis.yml" />
+    <None Include="Libs\glm\readme.md" />
+    <None Include="Libs\SFML\doc\html\AlResource_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\annotated.html" />
+    <None Include="Libs\SFML\doc\html\Audio_2Export_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Audio_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\BlendMode_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\CircleShape_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\classes.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1AlResource.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1AlResource-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1BlendMode-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1CircleShape.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1CircleShape-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Clock.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Clock-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Color.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Color-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Context.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Context-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ContextSettings-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ConvexShape.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ConvexShape-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Drawable.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Drawable-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Event.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Event-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1FileInputStream.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1FileInputStream-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Font.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Font-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1DirectoryResponse.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1DirectoryResponse-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1ListingResponse.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1ListingResponse-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1Response.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp_1_1Response-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Ftp-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1GlResource.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1GlResource_1_1TransientContextLock.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1GlResource_1_1TransientContextLock-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1GlResource-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Glyph.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Glyph-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http_1_1Request.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http_1_1Request-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http_1_1Response.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http_1_1Response-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Http-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Image.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Image-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1InputSoundFile.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1InputSoundFile-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1InputStream.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1InputStream-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1IpAddress.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1IpAddress-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Joystick.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Joystick-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Keyboard.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Keyboard-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Listener.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Listener-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Lock.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Lock-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1MemoryInputStream.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1MemoryInputStream-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Mouse.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Mouse-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Music.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Music-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Mutex.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Mutex-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1NonCopyable.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1NonCopyable-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1OutputSoundFile.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1OutputSoundFile-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Packet.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Packet-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Rect.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RectangleShape.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RectangleShape-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Rect-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderStates.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderStates-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderTarget.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderTarget-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderTexture.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderTexture-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderWindow.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1RenderWindow-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sensor.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sensor-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Shader.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Shader-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Shape.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Shape-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Socket.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Socket-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SocketSelector.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SocketSelector-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sound.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundBuffer.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundBuffer-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundBufferRecorder.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundBufferRecorder-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileFactory.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileFactory-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileReader.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileReader-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileWriter.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundFileWriter-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sound-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundRecorder.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundRecorder-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundSource.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundSource-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundStream.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1SoundStream-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sprite.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Sprite-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1String.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1String-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1TcpListener.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1TcpListener-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1TcpSocket.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1TcpSocket-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Text.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Text-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Texture.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Texture-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Thread.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ThreadLocal.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ThreadLocal-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ThreadLocalPtr.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1ThreadLocalPtr-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Thread-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Time.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Time-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Touch.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Touch-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Transform.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Transformable.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Transformable-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Transform-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1UdpSocket.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1UdpSocket-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_018_01_4.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_018_01_4-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_0116_01_4.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_0116_01_4-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_0132_01_4.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Utf_3_0132_01_4-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vector2.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vector2-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vector3.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vector3-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vertex.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1VertexArray.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1VertexArray-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Vertex-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1VideoMode.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1VideoMode-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1View.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1View-members.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Window.html" />
+    <None Include="Libs\SFML\doc\html\classsf_1_1Window-members.html" />
+    <None Include="Libs\SFML\doc\html\Clock_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Color_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Config_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Context_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\ContextSettings_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\ConvexShape_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\deprecated.html" />
+    <None Include="Libs\SFML\doc\html\dir_9ca93fe75e375680c8d5541792711465.html" />
+    <None Include="Libs\SFML\doc\html\dir_139bdea5517c8285c4c6d697501014f9.html" />
+    <None Include="Libs\SFML\doc\html\dir_357aa70a9ab2c22ea525f6a52810701d.html" />
+    <None Include="Libs\SFML\doc\html\dir_873f3329ad3c448b0452012e1b50a7ca.html" />
+    <None Include="Libs\SFML\doc\html\dir_6282a846aef46c562df320c3c321393d.html" />
+    <None Include="Libs\SFML\doc\html\dir_a465d99dc6d591b1fb2657a3e2e0ee9b.html" />
+    <None Include="Libs\SFML\doc\html\dir_b2566b3f099aab44b5dbaaac139ebf00.html" />
+    <None Include="Libs\SFML\doc\html\dir_fd27c1b34c2c91b14b67b46e2d75b448.html" />
+    <None Include="Libs\SFML\doc\html\Drawable_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Err_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Event_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\FileInputStream_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\files.html" />
+    <None Include="Libs\SFML\doc\html\Font_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Ftp_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\functions.html" />
+    <None Include="Libs\SFML\doc\html\functions_~.html" />
+    <None Include="Libs\SFML\doc\html\functions_b.html" />
+    <None Include="Libs\SFML\doc\html\functions_c.html" />
+    <None Include="Libs\SFML\doc\html\functions_d.html" />
+    <None Include="Libs\SFML\doc\html\functions_e.html" />
+    <None Include="Libs\SFML\doc\html\functions_enum.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_b.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_c.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_d.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_e.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_f.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_g.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_h.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_i.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_j.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_k.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_l.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_m.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_n.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_o.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_p.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_q.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_r.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_s.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_t.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_u.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_v.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_w.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_x.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_y.html" />
+    <None Include="Libs\SFML\doc\html\functions_eval_z.html" />
+    <None Include="Libs\SFML\doc\html\functions_f.html" />
+    <None Include="Libs\SFML\doc\html\functions_func.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_~.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_b.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_c.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_d.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_e.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_f.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_g.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_h.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_i.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_k.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_l.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_m.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_n.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_o.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_p.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_r.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_s.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_t.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_u.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_v.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_w.html" />
+    <None Include="Libs\SFML\doc\html\functions_func_z.html" />
+    <None Include="Libs\SFML\doc\html\functions_g.html" />
+    <None Include="Libs\SFML\doc\html\functions_h.html" />
+    <None Include="Libs\SFML\doc\html\functions_i.html" />
+    <None Include="Libs\SFML\doc\html\functions_j.html" />
+    <None Include="Libs\SFML\doc\html\functions_k.html" />
+    <None Include="Libs\SFML\doc\html\functions_l.html" />
+    <None Include="Libs\SFML\doc\html\functions_m.html" />
+    <None Include="Libs\SFML\doc\html\functions_n.html" />
+    <None Include="Libs\SFML\doc\html\functions_o.html" />
+    <None Include="Libs\SFML\doc\html\functions_p.html" />
+    <None Include="Libs\SFML\doc\html\functions_q.html" />
+    <None Include="Libs\SFML\doc\html\functions_r.html" />
+    <None Include="Libs\SFML\doc\html\functions_rela.html" />
+    <None Include="Libs\SFML\doc\html\functions_s.html" />
+    <None Include="Libs\SFML\doc\html\functions_t.html" />
+    <None Include="Libs\SFML\doc\html\functions_type.html" />
+    <None Include="Libs\SFML\doc\html\functions_u.html" />
+    <None Include="Libs\SFML\doc\html\functions_v.html" />
+    <None Include="Libs\SFML\doc\html\functions_vars.html" />
+    <None Include="Libs\SFML\doc\html\functions_w.html" />
+    <None Include="Libs\SFML\doc\html\functions_x.html" />
+    <None Include="Libs\SFML\doc\html\functions_y.html" />
+    <None Include="Libs\SFML\doc\html\functions_z.html" />
+    <None Include="Libs\SFML\doc\html\GlResource_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Glsl_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Glyph_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Graphics_2Export_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Graphics_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\group__audio.html" />
+    <None Include="Libs\SFML\doc\html\group__graphics.html" />
+    <None Include="Libs\SFML\doc\html\group__network.html" />
+    <None Include="Libs\SFML\doc\html\group__system.html" />
+    <None Include="Libs\SFML\doc\html\group__window.html" />
+    <None Include="Libs\SFML\doc\html\hierarchy.html" />
+    <None Include="Libs\SFML\doc\html\Http_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Image_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\index.html" />
+    <None Include="Libs\SFML\doc\html\InputSoundFile_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\InputStream_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\IpAddress_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Joystick_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Keyboard_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Listener_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Lock_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Main_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\mainpage_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\MemoryInputStream_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\modules.html" />
+    <None Include="Libs\SFML\doc\html\Mouse_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Music_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Mutex_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\namespacemembers.html" />
+    <None Include="Libs\SFML\doc\html\namespacemembers_type.html" />
+    <None Include="Libs\SFML\doc\html\namespaces.html" />
+    <None Include="Libs\SFML\doc\html\namespacesf_1_1Glsl.html" />
+    <None Include="Libs\SFML\doc\html\NativeActivity_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Network_2Export_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Network_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\NonCopyable_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\OpenGL_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\OutputSoundFile_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Packet_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\pages.html" />
+    <None Include="Libs\SFML\doc\html\PrimitiveType_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Rect_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\RectangleShape_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\RenderStates_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\RenderTarget_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\RenderTexture_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\RenderWindow_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Sensor_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Shader_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Shape_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\singletonsf_1_1Utf.html" />
+    <None Include="Libs\SFML\doc\html\Sleep_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Socket_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SocketHandle_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SocketSelector_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Sound_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundBuffer_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundBufferRecorder_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundFileFactory_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundFileReader_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundFileWriter_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundRecorder_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundSource_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\SoundStream_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Sprite_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\String_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1BlendMode.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1ContextSettings.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickButtonEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickButtonEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickConnectEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickConnectEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickMoveEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1JoystickMoveEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1KeyEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1KeyEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseButtonEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseButtonEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseMoveEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseMoveEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseWheelEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseWheelEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseWheelScrollEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1MouseWheelScrollEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1SensorEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1SensorEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1SizeEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1SizeEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1TextEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1TextEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1TouchEvent.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Event_1_1TouchEvent-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Font_1_1Info.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Font_1_1Info-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Joystick_1_1Identification.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Joystick_1_1Identification-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1Shader_1_1CurrentTextureType.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1SoundFileReader_1_1Info.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1SoundFileReader_1_1Info-members.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1SoundStream_1_1Chunk.html" />
+    <None Include="Libs\SFML\doc\html\structsf_1_1SoundStream_1_1Chunk-members.html" />
+    <None Include="Libs\SFML\doc\html\System_2Export_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\System_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\TcpListener_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\TcpSocket_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Text_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Texture_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Thread_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\ThreadLocal_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\ThreadLocalPtr_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Time_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Touch_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Transform_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Transformable_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\UdpSocket_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Utf_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Vector2_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Vector3_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Vertex_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\VertexArray_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\VideoMode_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\View_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Window_2Export_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Window_2Window_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\Window_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\WindowHandle_8hpp_source.html" />
+    <None Include="Libs\SFML\doc\html\WindowStyle_8hpp_source.html" />
+    <None Include="Libs\SFML\include\SFML\Audio\SoundFileFactory.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\Graphics\Glsl.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\Graphics\Rect.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\String.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\Thread.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\ThreadLocalPtr.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\Utf.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\Vector2.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\include\SFML\System\Vector3.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Libs\SFML\lib\sfml-audio-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-audio-s-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-graphics-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-graphics-s-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-network-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-network-s-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-system-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-system-s-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-window-d.pdb" />
+    <None Include="Libs\SFML\lib\sfml-window-s-d.pdb" />
+    <None Include="Libs\SFML\bin\openal32.dll" />
+    <None Include="Libs\SFML\bin\sfml-audio-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-audio-d-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-graphics-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-graphics-d-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-network-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-network-d-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-system-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-system-d-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-window-2.dll" />
+    <None Include="Libs\SFML\bin\sfml-window-d-2.dll" />
+    <None Include="Libs\SFML\cmake\Modules\FindSFML.cmake" />
+    <None Include="Libs\SFML\doc\sfml.chm" />
+    <None Include="Libs\SFML\examples\ftp\ftp.exe" />
+    <None Include="Libs\SFML\examples\opengl\opengl.exe" />
+    <None Include="Libs\SFML\examples\pong\pong.exe" />
+    <None Include="Libs\SFML\examples\shader\resources\billboard.frag" />
+    <None Include="Libs\SFML\examples\shader\resources\billboard.geom" />
+    <None Include="Libs\SFML\examples\shader\resources\billboard.vert" />
+    <None Include="Libs\SFML\examples\shader\resources\blink.frag" />
+    <None Include="Libs\SFML\examples\shader\resources\blur.frag" />
+    <None Include="Libs\SFML\examples\shader\resources\edge.frag" />
+    <None Include="Libs\SFML\examples\shader\resources\pixelate.frag" />
+    <None Include="Libs\SFML\examples\shader\resources\storm.vert" />
+    <None Include="Libs\SFML\examples\shader\resources\wave.vert" />
+    <None Include="Libs\SFML\examples\shader\shader.exe" />
+    <None Include="Libs\SFML\examples\sockets\sockets.exe" />
+    <None Include="Libs\SFML\examples\sound\sound.exe" />
+    <None Include="Libs\SFML\examples\sound\resources\ding.flac" />
+    <None Include="Libs\SFML\examples\sound\resources\orchestral.ogg" />
+    <None Include="Libs\SFML\examples\sound-capture\sound-capture.exe" />
+    <None Include="Libs\SFML\examples\voip\voip.exe" />
+    <None Include="Libs\SFML\examples\win32\win32.exe" />
+    <None Include="Libs\SFML\examples\window\window.exe" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\CL.command.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\CL.read.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\CL.write.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\link.command.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\link.read.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\link.write.1.tlog" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\OpenGLProject2.lastbuildstate" />
+    <None Include="x64\Debug\OpenGLProject2.tlog\unsuccessfulbuild" />
+    <None Include="x64\Debug\vc141.idb" />
+    <None Include="x64\Debug\vc141.pdb" />
+    <None Include="glew32.dll" />
+    <None Include="openal32.dll" />
+    <None Include="OpenGLProject2.cbp" />
+    <None Include="README.md" />
+    <None Include="sfml-audio-d-2.dll" />
+    <None Include="sfml-graphics-d-2.dll" />
+    <None Include="sfml-network-d-2.dll" />
+    <None Include="sfml-system-d-2.dll" />
+    <None Include="sfml-window-d-2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Data\Fonts\rs.ttf" />
+    <Font Include="Debug\Data\Fonts\rs.ttf" />
+    <Font Include="Libs\SFML\examples\pong\resources\sansation.ttf" />
+    <Font Include="Libs\SFML\examples\shader\resources\sansation.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\Textures\Atlas\old\HD.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Atlas\old\Hopson.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Atlas\old\Hopson2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Atlas\old\LHD.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Atlas\old\Texture_Atlas.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Atlas\Low.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\2.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\3.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\4.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\5.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Menu_BG\6.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Crosshair.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\GUI.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\Logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Data\Textures\vignette.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Atlas\HD.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\1.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\2.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\3.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\4.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\5.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Menu_BG\6.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\Crosshair.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\GUI.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Debug\Data\Textures\vignette.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glew\doc\github.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glew\doc\glew.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glew\doc\new.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glew\doc\ogl_sm.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glew\doc\travis.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\arrowdown.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\arrowright.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\bc_s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\bdwn.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\closed.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\doc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\doxygen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\folderclosed.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\folderopen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\nav_f.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\nav_g.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\nav_h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\open.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\splitbar.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\sync_off.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\sync_on.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\tab_a.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\tab_b.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\tab_h.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\api\tab_s.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\glm\doc\logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\shader\resources\background.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\shader\resources\devices.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\shader\resources\logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\shader\resources\sfml.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\shader\resources\text-background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\win32\resources\image1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libs\SFML\examples\win32\resources\image2.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Debug\AABB.obj" />
+    <Object Include="Debug\Application.obj" />
+    <Object Include="Debug\Background.obj" />
+    <Object Include="Debug\BDefault.obj" />
+    <Object Include="Debug\Biome.obj" />
+    <Object Include="Debug\Block_Data.obj" />
+    <Object Include="Debug\Block_Database.obj" />
+    <Object Include="Debug\Block_Editor.obj" />
+    <Object Include="Debug\Block_Type.obj" />
+    <Object Include="Debug\Body.obj" />
+    <Object Include="Debug\BoundsCheck.obj" />
+    <Object Include="Debug\BPlant.obj" />
+    <Object Include="Debug\Buildings.obj" />
+    <Object Include="Debug\Button.obj" />
+    <Object Include="Debug\BWater.obj" />
+    <Object Include="Debug\Camera.obj" />
+    <Object Include="Debug\Chunk_Shader.obj" />
+    <Object Include="Debug\Component.obj" />
+    <Object Include="Debug\Config.obj" />
+    <Object Include="Debug\ConfigParser.obj" />
+    <Object Include="Debug\Crosshair.obj" />
+    <Object Include="Debug\Cube_Map.obj" />
+    <Object Include="Debug\Debug.obj" />
+    <Object Include="Debug\Display.obj" />
+    <Object Include="Debug\Dropdown.obj" />
+    <Object Include="Debug\File_Util.obj" />
+    <Object Include="Debug\Frustum.obj" />
+    <Object Include="Debug\Full_Chunk.obj" />
+    <Object Include="Debug\Function_Toggle_Key.obj" />
+    <Object Include="Debug\Game_State.obj" />
+    <Object Include="Debug\General_Maths.obj" />
+    <Object Include="Debug\Generation_Type.obj" />
+    <Object Include="Debug\Image.obj" />
+    <Object Include="Debug\Imaged_Button.obj" />
+    <Object Include="Debug\Key_Binds.obj" />
+    <Object Include="Debug\Loader.obj" />
+    <Object Include="Debug\Main.obj" />
+    <Object Include="Debug\Map.obj" />
+    <Object Include="Debug\Matrix_Maths.obj" />
+    <Object Include="Debug\Mesh.obj" />
+    <Object Include="Debug\Mesh_Builder.obj" />
+    <Object Include="Debug\Model.obj" />
+    <Object Include="Debug\Model_Coords.obj" />
+    <Object Include="Debug\Music_Player.obj" />
+    <Object Include="Debug\Nodes.obj" />
+    <Object Include="Debug\Noise_Generator.obj" />
+    <Object Include="Debug\Panel.obj" />
+    <Object Include="Debug\Player.obj" />
+    <Object Include="Debug\Player_Input.obj" />
+    <Object Include="Debug\Position_Conversion.obj" />
+    <Object Include="Debug\Quad.obj" />
+    <Object Include="Debug\Random.obj" />
+    <Object Include="Debug\Ray.obj" />
+    <Object Include="Debug\Resource_Holder.obj" />
+    <Object Include="Debug\RFlora.obj" />
+    <Object Include="Debug\RHit_Box.obj" />
+    <Object Include="Debug\RLiquid.obj" />
+    <Object Include="Debug\RMaster.obj" />
+    <Object Include="Debug\RSFML.obj" />
+    <Object Include="Debug\RSimple.obj" />
+    <Object Include="Debug\RSolid.obj" />
+    <Object Include="Debug\Section.obj" />
+    <Object Include="Debug\Section_GaS.obj" />
+    <Object Include="Debug\Shader_Loader.obj" />
+    <Object Include="Debug\Shader_Program.obj" />
+    <Object Include="Debug\Simple_Shader.obj" />
+    <Object Include="Debug\SMain_Menu.obj" />
+    <Object Include="Debug\SPlaying.obj" />
+    <Object Include="Debug\SSettings_Menu.obj" />
+    <Object Include="Debug\STD_Util.obj" />
+    <Object Include="Debug\Structures.obj" />
+    <Object Include="Debug\Structures_Builder.obj" />
+    <Object Include="Debug\Terrain_Generator.obj" />
+    <Object Include="Debug\Text_Box.obj" />
+    <Object Include="Debug\Texture.obj" />
+    <Object Include="Debug\Texture_Atlas.obj" />
+    <Object Include="Debug\Time_Check.obj" />
+    <Object Include="Debug\Trees.obj" />
+    <Object Include="Debug\Vignette.obj" />
+    <Object Include="Debug\World.obj" />
+    <Object Include="Debug\World_File.obj" />
+    <Object Include="x64\Debug\AABB.obj" />
+    <Object Include="x64\Debug\Application.obj" />
+    <Object Include="x64\Debug\Background.obj" />
+    <Object Include="x64\Debug\BDefault.obj" />
+    <Object Include="x64\Debug\Biome.obj" />
+    <Object Include="x64\Debug\Block_Data.obj" />
+    <Object Include="x64\Debug\Block_Database.obj" />
+    <Object Include="x64\Debug\Block_Editor.obj" />
+    <Object Include="x64\Debug\Block_Type.obj" />
+    <Object Include="x64\Debug\Body.obj" />
+    <Object Include="x64\Debug\BoundsCheck.obj" />
+    <Object Include="x64\Debug\BPlant.obj" />
+    <Object Include="x64\Debug\Buildings.obj" />
+    <Object Include="x64\Debug\Button.obj" />
+    <Object Include="x64\Debug\BWater.obj" />
+    <Object Include="x64\Debug\Camera.obj" />
+    <Object Include="x64\Debug\Chunk_Shader.obj" />
+    <Object Include="x64\Debug\Component.obj" />
+    <Object Include="x64\Debug\Config.obj" />
+    <Object Include="x64\Debug\ConfigParser.obj" />
+    <Object Include="x64\Debug\Crosshair.obj" />
+    <Object Include="x64\Debug\Cube_Map.obj" />
+    <Object Include="x64\Debug\Debug.obj" />
+    <Object Include="x64\Debug\Display.obj" />
+    <Object Include="x64\Debug\Dropdown.obj" />
+    <Object Include="x64\Debug\File_Util.obj" />
+    <Object Include="x64\Debug\Frustum.obj" />
+    <Object Include="x64\Debug\Full_Chunk.obj" />
+    <Object Include="x64\Debug\Function_Toggle_Key.obj" />
+    <Object Include="x64\Debug\Game_State.obj" />
+    <Object Include="x64\Debug\General_Maths.obj" />
+    <Object Include="x64\Debug\Generation_Type.obj" />
+    <Object Include="x64\Debug\Image.obj" />
+    <Object Include="x64\Debug\Imaged_Button.obj" />
+    <Object Include="x64\Debug\Key_Binds.obj" />
+    <Object Include="x64\Debug\Loader.obj" />
+    <Object Include="x64\Debug\Main.obj" />
+    <Object Include="x64\Debug\Map.obj" />
+    <Object Include="x64\Debug\Matrix_Maths.obj" />
+    <Object Include="x64\Debug\Mesh.obj" />
+    <Object Include="x64\Debug\Mesh_Builder.obj" />
+    <Object Include="x64\Debug\Model.obj" />
+    <Object Include="x64\Debug\Model_Coords.obj" />
+    <Object Include="x64\Debug\Music_Player.obj" />
+    <Object Include="x64\Debug\Nodes.obj" />
+    <Object Include="x64\Debug\Noise_Generator.obj" />
+    <Object Include="x64\Debug\Panel.obj" />
+    <Object Include="x64\Debug\Player.obj" />
+    <Object Include="x64\Debug\Player_Input.obj" />
+    <Object Include="x64\Debug\Position_Conversion.obj" />
+    <Object Include="x64\Debug\Quad.obj" />
+    <Object Include="x64\Debug\Random.obj" />
+    <Object Include="x64\Debug\Ray.obj" />
+    <Object Include="x64\Debug\Resource_Holder.obj" />
+    <Object Include="x64\Debug\RFlora.obj" />
+    <Object Include="x64\Debug\RHit_Box.obj" />
+    <Object Include="x64\Debug\RLiquid.obj" />
+    <Object Include="x64\Debug\RMaster.obj" />
+    <Object Include="x64\Debug\RSFML.obj" />
+    <Object Include="x64\Debug\RSimple.obj" />
+    <Object Include="x64\Debug\RSolid.obj" />
+    <Object Include="x64\Debug\Section.obj" />
+    <Object Include="x64\Debug\Section_GaS.obj" />
+    <Object Include="x64\Debug\Shader_Loader.obj" />
+    <Object Include="x64\Debug\Shader_Program.obj" />
+    <Object Include="x64\Debug\Simple_Shader.obj" />
+    <Object Include="x64\Debug\SMain_Menu.obj" />
+    <Object Include="x64\Debug\SPlaying.obj" />
+    <Object Include="x64\Debug\SSettings_Menu.obj" />
+    <Object Include="x64\Debug\STD_Util.obj" />
+    <Object Include="x64\Debug\Structures.obj" />
+    <Object Include="x64\Debug\Structures_Builder.obj" />
+    <Object Include="x64\Debug\Terrain_Generator.obj" />
+    <Object Include="x64\Debug\Text_Box.obj" />
+    <Object Include="x64\Debug\Texture.obj" />
+    <Object Include="x64\Debug\Texture_Atlas.obj" />
+    <Object Include="x64\Debug\Time_Check.obj" />
+    <Object Include="x64\Debug\Trees.obj" />
+    <Object Include="x64\Debug\Vignette.obj" />
+    <Object Include="x64\Debug\World.obj" />
+    <Object Include="x64\Debug\World_File.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Debug\OpenGLProject2.Build.CppClean.log" />
+    <Text Include="Debug\OpenGLProject2.log" />
+    <Text Include="Libs\glew\doc\glew.txt" />
+    <Text Include="Libs\glew\doc\gpl.txt" />
+    <Text Include="Libs\glew\doc\khronos.txt" />
+    <Text Include="Libs\glew\doc\mesa.txt" />
+    <Text Include="Libs\glew\LICENSE.txt" />
+    <Text Include="Libs\glm\glm\CMakeLists.txt" />
+    <Text Include="Libs\glm\CMakeLists.txt" />
+    <Text Include="Libs\glm\copying.txt" />
+    <Text Include="Libs\SFML\license.txt" />
+    <Text Include="Libs\SFML\readme.txt" />
+    <Text Include="x64\Debug\OpenGLProject2.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Libs\glew\lib\Release\Win32\glew32.lib" />
+    <Library Include="Libs\glew\lib\Release\Win32\glew32s.lib" />
+    <Library Include="Libs\glew\lib\Release\x64\glew32.lib" />
+    <Library Include="Libs\glew\lib\Release\x64\glew32s.lib" />
+    <Library Include="Libs\SFML\lib\flac.lib" />
+    <Library Include="Libs\SFML\lib\freetype.lib" />
+    <Library Include="Libs\SFML\lib\jpeg.lib" />
+    <Library Include="Libs\SFML\lib\ogg.lib" />
+    <Library Include="Libs\SFML\lib\openal32.lib" />
+    <Library Include="Libs\SFML\lib\sfml-audio.lib" />
+    <Library Include="Libs\SFML\lib\sfml-audio-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-audio-s.lib" />
+    <Library Include="Libs\SFML\lib\sfml-audio-s-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-graphics.lib" />
+    <Library Include="Libs\SFML\lib\sfml-graphics-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-graphics-s.lib" />
+    <Library Include="Libs\SFML\lib\sfml-graphics-s-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-main.lib" />
+    <Library Include="Libs\SFML\lib\sfml-main-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-network.lib" />
+    <Library Include="Libs\SFML\lib\sfml-network-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-network-s.lib" />
+    <Library Include="Libs\SFML\lib\sfml-network-s-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-system.lib" />
+    <Library Include="Libs\SFML\lib\sfml-system-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-system-s.lib" />
+    <Library Include="Libs\SFML\lib\sfml-system-s-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-window.lib" />
+    <Library Include="Libs\SFML\lib\sfml-window-d.lib" />
+    <Library Include="Libs\SFML\lib\sfml-window-s.lib" />
+    <Library Include="Libs\SFML\lib\sfml-window-s-d.lib" />
+    <Library Include="Libs\SFML\lib\vorbis.lib" />
+    <Library Include="Libs\SFML\lib\vorbisenc.lib" />
+    <Library Include="Libs\SFML\lib\vorbisfile.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Libs\SFML\examples\pong\resources\ball.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Libs\SFML\examples\sound\resources\canary.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
 </Project>
